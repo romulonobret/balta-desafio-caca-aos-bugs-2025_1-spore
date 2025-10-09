@@ -1,6 +1,6 @@
 ![github-repository-share_demo-bat](https://github.com/user-attachments/assets/ccf4cd29-c65d-4517-82a5-d98784a69895)
 
-## 👋 Bem-vindo(a) ao meu repositório do desafio Caça aos Bugs 2025!
+## 👻 Caça aos Bugs 2025 - Desafio 01 - Demo Bat
 
 Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **Caça aos Bugs 2025**, realizado pelo [balta.io](https://balta.io). 👻
 
