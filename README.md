@@ -1,13 +1,13 @@
 ![github-repository-share_spore](https://github.com/user-attachments/assets/3cc6c3dd-1b88-48bd-9b84-af7f29ff16ea)
 
-## 👻 Caça aos Bugs 2025 - Desafio 01 - Demo Bat
+## 👻 Caça aos Bugs 2025 - Desafio 01 - Spore
 
 Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **Caça aos Bugs 2025**, realizado pelo [balta.io](https://balta.io). 👻
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
 
 ### Sobre este desafio
-No desafio **Demo Bat** eu tive que preparar o ambiente local, fazendo download do código fonte da aplicação, executando as Migrations e criando as variáveis de ambiente.
+No desafio **Spore** eu tive que preparar o ambiente local, fazendo download do código fonte da aplicação, executando as Migrations e criando as variáveis de ambiente.
 Neste processo eu aprendi:
 * ✅ Clonar repositórios
 * ✅ Gerar migrações e aplicá-las
