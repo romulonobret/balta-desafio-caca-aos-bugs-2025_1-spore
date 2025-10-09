@@ -1,4 +1,4 @@
-![github-repository-share_demo-bat](https://github.com/user-attachments/assets/31730875-5ff0-461e-b9ef-b78879f4de82)
+![github-repository-share_spore](https://github.com/user-attachments/assets/3cc6c3dd-1b88-48bd-9b84-af7f29ff16ea)
 
 ## 👻 Caça aos Bugs 2025 - Desafio 01 - Demo Bat
 
